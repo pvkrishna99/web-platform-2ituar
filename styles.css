@@ -1,0 +1,12 @@
+
+body {background-color: powderblue;
+      font-family: verdana;
+      font-size: 250%;
+}
+h1   {color: rgb(245, 135, 9);
+      font-family: courier;
+      font-size: 160%;
+}
+p    {color: Violet;
+      border: 2px solid yellow;
+}
